@@ -24,7 +24,7 @@ namespace eXrepUninstall
         public static Dictionary<string, string> _CodeConfig = null;
         public static ReaderWriterLock rwl = new ReaderWriterLock();
         
-        // 뭔가 수정함
+        // 뭔가 수정함...
 
         // 암호를 입력해야하는 사용자인지 확인
         public bool PasswordCheck()
