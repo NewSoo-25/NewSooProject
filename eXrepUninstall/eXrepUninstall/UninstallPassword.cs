@@ -16,7 +16,7 @@ namespace eXrepUninstall
 {
     public class UninstallPassword
     {
-        public String sUninstallPassword = "eXsoft222";
+        public String sUninstallPassword = "exsoft";
         public String sResourcePath = "";
         public String sCoID = "";
         public String sUserID = "";
@@ -24,7 +24,6 @@ namespace eXrepUninstall
         public static Dictionary<string, string> _CodeConfig = null;
         public static ReaderWriterLock rwl = new ReaderWriterLock();
         
-		// 뭔가 수정을 했음... 뭔가... 2222
 
         // 암호를 입력해야하는 사용자인지 확인
         public bool PasswordCheck()
