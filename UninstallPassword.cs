@@ -25,6 +25,8 @@ namespace eXrepUninstall
         public static ReaderWriterLock rwl = new ReaderWriterLock();
         
 		// 뭔가 수정을 했음... 뭔가... 2222
+		
+		// 슬랙테스트용 커밋..
 
         // 암호를 입력해야하는 사용자인지 확인
         public bool PasswordCheck()
