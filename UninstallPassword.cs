@@ -27,6 +27,8 @@ namespace eXrepUninstall
 		// 뭔가 수정을 했음... 뭔가... 2222
 		
 		// 슬랙테스트용 커밋..
+		
+		// 슬랙 테스트용으로 커밋 22
 
         // 암호를 입력해야하는 사용자인지 확인
         public bool PasswordCheck()
